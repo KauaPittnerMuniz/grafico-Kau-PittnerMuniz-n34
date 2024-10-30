@@ -1,4 +1,16 @@
+html{
+    background-color: white;
+}
 body{
     background-color: black;
+border: solid darkgray 5px;
+padding: 30px;
+border-radius: 20px;
+}
+#meuGrafico{
+    max-width: 500px;
+    max-height: 500px;
+}
+h1{
     color: white;
 }
